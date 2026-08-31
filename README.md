@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋 I'm Thirumalai Vasan S
 
-<!--
-**Thirumalai260720/Thirumalai260720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐍 Python Full Stack Developer | CSE Graduate
 
-Here are some ideas to get you started:
+I'm a Computer Science and Engineering graduate passionate about building web applications and solving real-world problems using Python and modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+
+* **Programming:** Python, Java
+* **Web Development:** HTML, CSS, JavaScript
+* **Database:** SQL, MySQL
+* **Frameworks & Tools:** Streamlit, Git, GitHub, VS Code
+* **Libraries:** NumPy, Pandas, OpenCV
+
+### 🚀 Featured Projects
+
+**🔐 Secure Image Encryption & Retrieval Framework Using CNNs and Streamlit**
+A cybersecurity and deep learning project combining CNN-based image processing, encryption techniques, and a Streamlit web interface.
+
+**🏦 Bank Employee Management System**
+A web-based employee management system developed using PHP and MySQL.
+
+### 🌐 Connect With Me
+
+* 🌐 **Portfolio:** https://thiru-portfolio1.netlify.app/
+* 💼 **LinkedIn:** https://www.linkedin.com/in/thirumalai2607/
+* 🐙 **GitHub:** https://github.com/Thirumalai260720
+
+### 🎯 Career Goal
+
+Seeking opportunities as a **Python Full Stack Developer**, where I can apply my programming and web development skills while continuously learning and growing as a software developer.
