@@ -4,7 +4,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:FF0000&height=180&section=header&text=Thirumalai%20Vasan%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Aspiring+Python+Full+Stack+Developer;CSE+Graduate;Python+%7C+HTML+%7C+CSS+%7C+JavaScript+%7C+SQL;Building+Projects+and+Learning+Every+Day"/>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Aspiring+Python+Full+Stack+Developer;CSE+Graduate;Python+%7C+HTML+%7C+CSS+%7C+JavaScript+%7C+SQL;Building+Projects+%7C+Learning+Every+Day" alt="Typing SVG"/>
 
 </div>
 
@@ -38,7 +40,13 @@
 
 ## 👨‍💻 About Me
 
+<div align="center">
 
+### 🔴 Aspiring Python Full Stack Developer
+
+</div>
+
+```python
 class ThirumalaiVasan:
 
     def __init__(self):
@@ -49,6 +57,7 @@ class ThirumalaiVasan:
 
         self.languages = [
             "Python",
+            "Java",
             "HTML",
             "CSS",
             "JavaScript",
@@ -59,16 +68,22 @@ class ThirumalaiVasan:
             "MySQL"
         ]
 
-        self.tools = [
-            "Git",
-            "GitHub",
-            "VS Code",
-            "XAMPP"
+        self.libraries = [
+            "NumPy",
+            "Pandas",
+            "OpenCV"
         ]
 
         self.frameworks_and_platforms = [
             "FastAPI",
             "Streamlit"
+        ]
+
+        self.tools = [
+            "Git",
+            "GitHub",
+            "VS Code",
+            "XAMPP"
         ]
 
         self.interests = [
@@ -89,7 +104,16 @@ class ThirumalaiVasan:
 
     def goal(self):
         return "Build practical applications and grow as a Python Full Stack Developer"
+```
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-Developer-000000?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Full%20Stack-Learning-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/SQL-Database-000000?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/AI%20%26%20ML-Exploring-000000?style=for-the-badge&logo=python&logoColor=3776AB"/>
+
+</div>
 
 ---
 
@@ -97,14 +121,17 @@ class ThirumalaiVasan:
 
 ## 🚀 Current Focus
 
-- 🐍 Strengthening **Python**
-- 🌐 Learning and improving **Full Stack Development**
-- 🗄️ Practicing **SQL & MySQL**
-- ⚡ Building applications with **FastAPI & Streamlit**
-- 🤖 Exploring **Machine Learning & AI**
-- 🧠 Practicing DSA with **LeetCode**
-- 💻 Building practical projects
-- 📚 Continuously improving my development skills
+<div align="center">
+
+|       🐍 Python      |    🌐 Full Stack    |    🗄️ SQL & MySQL   |
+| :------------------: | :-----------------: | :------------------: |
+| Strengthening Python | Building web skills | Practicing databases |
+
+| ⚡ FastAPI & Streamlit |     🤖 AI & ML     |          🧠 DSA          |
+| :-------------------: | :----------------: | :----------------------: |
+| Building applications | Exploring concepts | Practicing with LeetCode |
+
+</div>
 
 ---
 
@@ -122,16 +149,16 @@ A cybersecurity and deep-learning based project focused on secure image processi
 
 **Key Areas:**
 
-- 🔐 Image encryption
-- 🧠 CNN-based processing
-- 💧 Watermark embedding and extraction
-- 🔎 Secure image retrieval
-- 📊 PSNR / MSE / SSIM evaluation
-- 🧹 Noise removal
-- 🖼️ Grayscale image processing
-- 🌐 Streamlit-based application
+* 🔐 Image encryption
+* 🧠 CNN-based processing
+* 💧 Watermark embedding and extraction
+* 🔎 Secure image retrieval
+* 📊 PSNR / MSE / SSIM evaluation
+* 🧹 Noise removal
+* 🖼️ Grayscale image processing
+* 🌐 Streamlit-based application
 
-🔗 **Repository:**  
+🔗 **Repository:**
 https://github.com/Thirumalai260720/secure-image-encryption-CNN-and-Streamlit
 
 ---
@@ -146,15 +173,15 @@ A database-driven application developed for managing employee information and pe
 
 **Features:**
 
-- 👤 Employee management
-- ➕ Add employee records
-- ✏️ Update employee records
-- 🗑️ Delete employee records
-- 👀 View employee information
-- 🗄️ MySQL database integration
-- 🔔 Session-based messages
+* 👤 Employee management
+* ➕ Add employee records
+* ✏️ Update employee records
+* 🗑️ Delete employee records
+* 👀 View employee information
+* 🗄️ MySQL database integration
+* 🔔 Session-based messages
 
-🔗 **GitHub:**  
+🔗 **GitHub:**
 https://github.com/Thirumalai260720
 
 ---
@@ -169,12 +196,12 @@ An academic machine-learning mini project focused on exploring automated identif
 
 **Focus:**
 
-- 📊 Data processing
-- 🤖 Machine learning
-- 🔮 Prediction
-- ⚙️ Automated identification
+* 📊 Data processing
+* 🤖 Machine learning
+* 🔮 Prediction
+* ⚙️ Automated identification
 
-🔗 **GitHub:**  
+🔗 **GitHub:**
 https://github.com/Thirumalai260720
 
 ---
@@ -187,7 +214,7 @@ https://github.com/Thirumalai260720
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js"/>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js"/>
 
 <br><br>
 
@@ -197,22 +224,27 @@ https://github.com/Thirumalai260720
 
 <br><br>
 
+### Libraries & Frameworks
+
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=013243"/>
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=150458"/>
+<img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
+<img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
+
+<br><br>
+
 ### Development & Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
 <br><br>
 
-### Frameworks & Platforms
-
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
-
 <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4"/>
-
+<img src="https://img.shields.io/badge/XAMPP-000000?style=for-the-badge&logo=xampp&logoColor=FB7A24"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=python&logoColor=3776AB"/>
 
 </div>
@@ -223,37 +255,54 @@ https://github.com/Thirumalai260720
 
 ## 🐍 My Python Journey
 
-Python Basics
-     │
-     ├── Variables & Data Types
-     ├── Operators
-     ├── Conditional Statements
-     ├── Loops
-     ├── Control Transfer
-     ├── Nested Loops
-     ├── ASCII
-     ├── Collections
-     ├── Functions
-     ├── Modules
-     └── Exception Handling
-             │
-             ▼
-       Advanced Python
-             │
-             ├── Classes & Objects
-             ├── Encapsulation
-             ├── Inheritance
-             ├── Polymorphism
-             ├── Abstraction
-             ├── Integration
-             ├── TXT / CSV / SQL
-             ├── Generators
-             ├── Decorators
-             ├── Walrus Operator
-             ├── Naming Conventions
-             ├── Multithreading
-             └── Regular Expressions
-```
+<div align="center">
+
+### 🔴 Python Basics
+
+`Variables & Data Types` → `Operators` → `Conditional Statements` → `Loops`
+
+⬇️
+
+`Control Transfer` → `Nested Loops` → `ASCII` → `Collections`
+
+⬇️
+
+`Functions` → `Modules` → `Exception Handling`
+
+<br>
+
+### ⚫ Advanced Python
+
+⬇️
+
+`Classes & Objects` → `Encapsulation` → `Inheritance`
+
+⬇️
+
+`Polymorphism` → `Abstraction` → `Integration`
+
+⬇️
+
+`TXT / CSV / SQL` → `Generators` → `Decorators`
+
+⬇️
+
+`Walrus Operator` → `Naming Conventions` → `Multithreading`
+
+⬇️
+
+`Regular Expressions`
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Basics-Completed-000000?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Advanced Python-In%20Progress-000000?style=for-the-badge&logo=python&logoColor=FF0000"/>
+
+</div>
 
 ---
 
@@ -347,17 +396,17 @@ Currently strengthening my problem-solving and DSA skills through LeetCode.
 
 ## 🎓 Certifications & Learning
 
-- 🏆 NPTEL — Problem Solving Through Programming in C
-- ☁️ NPTEL — Cloud Computing
-- ☕ Infosys Springboard — Java for Beginners
-- 🐍 Infosys Springboard — Basics of Python
-- 🧠 Infosys Springboard — Introduction to Deep Learning
-- 💬 Infosys Springboard — Introduction to NLP
-- ☁️ Infosys Springboard — Cloud Computing
-- 🌐 Infosys Springboard — IoT Platforms Overview
-- 🤖 Simplilearn — Introduction to Generative AI
-- 🧪 Software Testing Techniques
-- ☁️ Cloud / Fog / Edge Computing related learning
+* 🏆 NPTEL — Problem Solving Through Programming in C
+* ☁️ NPTEL — Cloud Computing
+* ☕ Infosys Springboard — Java for Beginners
+* 🐍 Infosys Springboard — Basics of Python
+* 🧠 Infosys Springboard — Introduction to Deep Learning
+* 💬 Infosys Springboard — Introduction to NLP
+* ☁️ Infosys Springboard — Cloud Computing
+* 🌐 Infosys Springboard — IoT Platforms Overview
+* 🤖 Simplilearn — Introduction to Generative AI
+* 🧪 Software Testing Techniques
+* ☁️ Cloud / Fog / Edge Computing related learning
 
 ---
 
@@ -365,11 +414,15 @@ Currently strengthening my problem-solving and DSA skills through LeetCode.
 
 ## 🎓 Education
 
+<div align="center">
+
 ### B.E. Computer Science and Engineering
 
 **Erode Sengunthar Engineering College**
 
 **2022 – 2026**
+
+</div>
 
 ---
 
