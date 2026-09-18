@@ -46,72 +46,63 @@
 
 </div>
 
-```python
-class ThirumalaiVasan:
+<div align="center">
 
-    def __init__(self):
-        self.name = "Thirumalai Vasan S"
-        self.role = "Aspiring Python Full Stack Developer"
-        self.education = "B.E. Computer Science and Engineering"
-        self.location = "Tamil Nadu, India"
+<table>
+<tr>
+<td align="center" width="50%">
 
-        self.languages = [
-            "Python",
-            "Java",
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "SQL"
-        ]
+### 🎓 Education
 
-        self.databases = [
-            "MySQL"
-        ]
+**B.E. Computer Science & Engineering**
 
-        self.libraries = [
-            "NumPy",
-            "Pandas",
-            "OpenCV"
-        ]
+Erode Sengunthar Engineering College
 
-        self.frameworks_and_platforms = [
-            "FastAPI",
-            "Streamlit"
-        ]
+**2022 – 2026**
 
-        self.tools = [
-            "Git",
-            "GitHub",
-            "VS Code",
-            "XAMPP"
-        ]
+</td>
 
-        self.interests = [
-            "Python Full Stack Development",
-            "Machine Learning",
-            "Artificial Intelligence",
-            "Problem Solving"
-        ]
+<td align="center" width="50%">
 
-    def currently_learning(self):
-        return [
-            "Advanced Python",
-            "Object-Oriented Programming",
-            "SQL & Database Development",
-            "DSA",
-            "Full Stack Development"
-        ]
+### 💻 Development
 
-    def goal(self):
-        return "Build practical applications and grow as a Python Full Stack Developer"
-```
+**Python • HTML • CSS • JavaScript • SQL**
+
+Building practical applications and improving full-stack development skills.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🛠️ Technologies
+
+**Python • Java • MySQL • FastAPI • Streamlit**
+
+NumPy • Pandas • OpenCV
+
+</td>
+
+<td align="center">
+
+### 🎯 Interests
+
+**Python Full Stack Development**
+
+Machine Learning • AI • Problem Solving
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-Developer-000000?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Full%20Stack-Learning-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/SQL-Database-000000?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/AI%20%26%20ML-Exploring-000000?style=for-the-badge&logo=python&logoColor=3776AB"/>
+> 🚀 **Building projects • Learning continuously • Improving every day**
 
 </div>
 
@@ -257,41 +248,28 @@ https://github.com/Thirumalai260720
 
 <div align="center">
 
-### 🔴 Python Basics
+### 🔴 Python Basics — Completed
 
-`Variables & Data Types` → `Operators` → `Conditional Statements` → `Loops`
-
-⬇️
-
-`Control Transfer` → `Nested Loops` → `ASCII` → `Collections`
-
-⬇️
-
-`Functions` → `Modules` → `Exception Handling`
+|          Topic         |        Topic       |          Topic         |
+| :--------------------: | :----------------: | :--------------------: |
+| Variables & Data Types |      Operators     | Conditional Statements |
+|          Loops         |  Control Transfer  |      Nested Loops      |
+|          ASCII         |     Collections    |        Functions       |
+|         Modules        | Exception Handling |                        |
 
 <br>
 
-### ⚫ Advanced Python
-
 ⬇️
 
-`Classes & Objects` → `Encapsulation` → `Inheritance`
+### ⚫ Advanced Python — In Progress
 
-⬇️
-
-`Polymorphism` → `Abstraction` → `Integration`
-
-⬇️
-
-`TXT / CSV / SQL` → `Generators` → `Decorators`
-
-⬇️
-
-`Walrus Operator` → `Naming Conventions` → `Multithreading`
-
-⬇️
-
-`Regular Expressions`
+|        Topic        |        Topic       |      Topic     |
+| :-----------------: | :----------------: | :------------: |
+|  Classes & Objects  |    Encapsulation   |   Inheritance  |
+|     Polymorphism    |     Abstraction    |   Integration  |
+|   TXT / CSV / SQL   |     Generators     |   Decorators   |
+|   Walrus Operator   | Naming Conventions | Multithreading |
+| Regular Expressions |                    |                |
 
 </div>
 
@@ -299,12 +277,12 @@ https://github.com/Thirumalai260720
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Basics-Completed-000000?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Advanced Python-In%20Progress-000000?style=for-the-badge&logo=python&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/Python%20Basics-Completed-000000?style=for-the-badge&logo=python&logoColor=3776AB"/>
+
+<img src="https://img.shields.io/badge/Advanced%20Python-In%20Progress-000000?style=for-the-badge&logo=python&logoColor=FF0000"/>
 
 </div>
 
----
 
 <!-- ======================= LEETCODE ======================= -->
 
@@ -327,22 +305,18 @@ Currently strengthening my problem-solving and DSA skills through LeetCode.
 > Practice consistently, understand the logic behind each problem, and gradually improve problem-solving skills.
 
 ---
-
 <!-- ======================= GITHUB STATS ======================= -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Thirumalai260720&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Thirumalai260720&show_icons=true&hide_border=true&theme=dark" width="48%"/>
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thirumalai260720&layout=compact&theme=dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thirumalai260720&layout=compact&hide_border=true&theme=dark" width="48%"/>
 
 </div>
 
----
 
 <!-- ======================= GITHUB STREAK ======================= -->
 
@@ -355,16 +329,16 @@ Currently strengthening my problem-solving and DSA skills through LeetCode.
 </div>
 
 ---
-
 <!-- ======================= GITHUB ACTIVITY ======================= -->
 
 ## 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thirumalai260720&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thirumalai260720&bg_color=0d1117&color=ffffff&line=FF0000&point=FF0000&area=true&hide_border=true" width="95%"/>
 
 </div>
+
 
 ---
 
@@ -374,9 +348,10 @@ Currently strengthening my problem-solving and DSA skills through LeetCode.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Thirumalai260720/Thirumalai260720/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Thirumalai260720/Thirumalai260720/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
+
 
 ---
 
