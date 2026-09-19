@@ -1,207 +1,205 @@
 <!-- ========================================================= -->
-<!--                  THIRUMALAI VASAN S                       -->
-<!--             CREATIVE GITHUB PROFILE README                 -->
+<!--                 THIRUMALAI VASAN S                        -->
+<!--              VISUAL GITHUB PROFILE README                  -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030303,35:180000,70:8B0000,100:FF0000&height=230&section=header&text=THIRUMALAI%20VASAN%20S&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Python%20Full%20Stack%20Developer&descAlignY=61&descSize=21&descColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,25:160000,55:550000,80:AA0000,100:FF0000&height=250&section=header&text=THIRUMALAI%20VASAN%20S&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Python%20Full%20Stack%20Developer&descAlignY=61&descSize=21&descColor=ffffff"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=FF3333&center=true&vCenter=true&width=850&height=50&lines=Python+%7C+HTML+%7C+CSS+%7C+JavaScript+%7C+SQL;Building+Practical+Applications;Exploring+Full+Stack+Development;Learning+Advanced+Python;Always+Learning.+Always+Building." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=FF3333&center=true&vCenter=true&width=850&height=55&lines=Python+%7C+HTML+%7C+CSS+%7C+JavaScript+%7C+SQL;Building+Practical+Applications;Exploring+Full+Stack+Development;Learning+Advanced+Python;Always+Learning.+Always+Building." alt="Typing SVG"/>
 
 <br><br>
 
 <a href="https://github.com/Thirumalai260720">
-<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/thirumalai2607/">
-<img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 <a href="https://thiru-portfolio1.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=googlechrome&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=FF0000"/>
 </a>
 
 <a href="mailto:thirumalaivasan2607@gmail.com">
-<img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Thirumalai260720&style=for-the-badge&color=red&label=PROFILE+VIEWS"/>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-## 👋 Hello, I'm Thirumalai Vasan S
+<h2>👋 Hello, I'm Thirumalai Vasan S</h2>
 
-### B.E. Computer Science & Engineering Graduate
+<h3>B.E. Computer Science & Engineering Graduate</h3>
 
-<img src="https://img.shields.io/badge/Python-Developer-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Web-Development-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-Exploring-8B0000?style=flat-square&logo=robotframework&logoColor=white"/>
+<p>
+<b>🐍 Python</b>
+&nbsp; • &nbsp;
+<b>🌐 Web Development</b>
+&nbsp; • &nbsp;
+<b>🗄️ SQL</b>
+&nbsp; • &nbsp;
+<b>🤖 Machine Learning</b>
+</p>
 
 </div>
 
 <br>
 
 ---
+
+<br>
 
 # 👨‍💻 ABOUT ME
 
-<table>
-<tr>
-
-<td width="58%" valign="top">
-
-<h3>🚀 Who I Am</h3>
-
-<p>
-I'm a <b>CSE graduate</b> and an <b>Aspiring Python Full Stack Developer</b> focused on building practical applications and continuously strengthening my development skills.
-</p>
-
-<p>
-I enjoy working with <b>Python, databases, web technologies and machine-learning concepts</b> while improving through projects, hands-on development and problem-solving practice.
-</p>
-
-<p>
-My current direction is to grow as a developer who can build <b>useful, reliable and practical Python-based applications.</b>
-</p>
-
-<br>
-
-<h3>🎯 What I'm Working Toward</h3>
-
-<p>
-<b>Python Development</b> → <b>Web Development</b> → <b>Database Development</b> → <b>Full Stack Applications</b>
-</p>
-
-</td>
-
-<td width="42%" valign="top">
-
-<h3>🧑‍💻 Developer Card</h3>
-
-<table>
-<tr>
-<td><b>Role</b></td>
-<td>Aspiring Python Full Stack Developer</td>
-</tr>
-
-<tr>
-<td><b>Education</b></td>
-<td>B.E. CSE</td>
-</tr>
-
-<tr>
-<td><b>Primary</b></td>
-<td>Python • SQL • Web</td>
-</tr>
-
-<tr>
-<td><b>Exploring</b></td>
-<td>FastAPI • Streamlit</td>
-</tr>
-
-<tr>
-<td><b>AI</b></td>
-<td>Machine Learning</td>
-</tr>
-
-<tr>
-<td><b>Practice</b></td>
-<td>DSA • LeetCode</td>
-</tr>
-
-<tr>
-<td><b>Location</b></td>
-<td>Tamil Nadu, India</td>
-</tr>
-</table>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# ⚡ DEVELOPER SNAPSHOT
-
 <div align="center">
 
-<table>
-<tr>
+<img src="https://img.shields.io/badge/ASPIRING-PYTHON%20FULL%20STACK%20DEVELOPER-FF0000?style=for-the-badge"/>
 
-<td align="center" width="25%">
+<br><br>
 
-<h2>🐍</h2>
+<p>
+I’m a <b>CSE graduate</b> focused on becoming an <b>Aspiring Python Full Stack Developer</b>.
+</p>
 
-<b>PYTHON</b>
+<p>
+I enjoy turning ideas into practical applications using
+<b>Python, databases and web technologies</b>.
+</p>
 
-<br>
-
-Application Development
-
-</td>
-
-<td align="center" width="25%">
-
-<h2>🌐</h2>
-
-<b>FULL STACK</b>
-
-<br>
-
-Currently Learning
-
-</td>
-
-<td align="center" width="25%">
-
-<h2>🗄️</h2>
-
-<b>SQL / MYSQL</b>
-
-<br>
-
-Database Development
-
-</td>
-
-<td align="center" width="25%">
-
-<h2>🤖</h2>
-
-<b>AI / ML</b>
-
-<br>
-
-Exploring Concepts
-
-</td>
-
-</tr>
-</table>
+<p>
+My learning journey combines <b>development, problem solving, machine learning</b>
+and continuous hands-on practice.
+</p>
 
 </div>
 
----
-
-# 🛠️ TECH STACK
+<br>
 
 <div align="center">
 
-<h3>💻 Languages</h3>
+### 🔥 My Development Direction
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js"/>
+<h2>🐍 Python</h2>
+
+⬇️
+
+<h2>🌐 Web Development</h2>
+
+⬇️
+
+<h2>🗄️ Database Development</h2>
+
+⬇️
+
+<h2>⚡ Full Stack Applications</h2>
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+# 🧭 MY DEVELOPER PATH
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/01-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<br>
+
+<h3>Building a Strong Python Foundation</h3>
+
+<p>
+Variables • Data Types • Operators • Loops • Collections • Functions • Modules • Exception Handling
+</p>
+
+⬇️
+
+<img src="https://img.shields.io/badge/02-ADVANCED%20PYTHON-8B0000?style=for-the-badge&logo=python&logoColor=white"/>
+
+<br>
+
+<h3>Deepening Python Development</h3>
+
+<p>
+OOP • Generators • Decorators • Regular Expressions • Multithreading
+</p>
+
+⬇️
+
+<img src="https://img.shields.io/badge/03-WEB%20DEVELOPMENT-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<br>
+
+<h3>Building Web Applications</h3>
+
+<p>
+HTML • CSS • JavaScript • FastAPI • Streamlit
+</p>
+
+⬇️
+
+<img src="https://img.shields.io/badge/04-DATABASES-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<br>
+
+<h3>Working With Data</h3>
+
+<p>
+SQL • MySQL • Database Management
+</p>
+
+⬇️
+
+<img src="https://img.shields.io/badge/05-PROBLEM%20SOLVING-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+<br>
+
+<h3>Strengthening DSA</h3>
+
+<p>
+Learning logic → Solving problems → Understanding solutions → Improving
+</p>
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+# 🛠️ TECHNOLOGY UNIVERSE
+
+<div align="center">
+
+<h3>🐍 Programming</h3>
+
+<img src="https://skillicons.dev/icons?i=python,java"/>
+
+<br><br>
+
+<h3>🌐 Frontend</h3>
+
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+
+<br><br>
+
+<h3>⚡ Backend & Application</h3>
+
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+
+<img src="https://img.shields.io/badge/STREAMLIT-111111?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
 
 <br><br>
 
@@ -211,512 +209,528 @@ Exploring Concepts
 
 <br><br>
 
-<h3>⚡ Frameworks & Platforms</h3>
+<h3>📊 Python Libraries</h3>
 
-<img src="https://skillicons.dev/icons?i=fastapi"/>
+<img src="https://img.shields.io/badge/NUMPY-111111?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>
 
-<img src="https://img.shields.io/badge/Streamlit-050505?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
+<img src="https://img.shields.io/badge/PANDAS-111111?style=for-the-badge&logo=pandas&logoColor=150458"/>
 
-<br><br>
-
-<h3>📚 Libraries</h3>
-
-<img src="https://img.shields.io/badge/NumPy-050505?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>
-
-<img src="https://img.shields.io/badge/Pandas-050505?style=for-the-badge&logo=pandas&logoColor=150458"/>
-
-<img src="https://img.shields.io/badge/OpenCV-050505?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
+<img src="https://img.shields.io/badge/OPENCV-111111?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
 
 <br><br>
 
-<h3>🔧 Tools</h3>
+<h3>🔧 Developer Tools</h3>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
-<img src="https://img.shields.io/badge/XAMPP-050505?style=for-the-badge&logo=xampp&logoColor=FB7A24"/>
+<img src="https://img.shields.io/badge/XAMPP-111111?style=for-the-badge&logo=xampp&logoColor=FB7A24"/>
 
 </div>
-
----
-
-# 🐍 PYTHON DEVELOPMENT JOURNEY
-
-<div align="center">
-
-<h3>🔴 FOUNDATION — COMPLETED</h3>
-
-<table>
-<tr>
-<td align="center">Variables & Data Types</td>
-<td align="center">Operators</td>
-<td align="center">Control Statements</td>
-</tr>
-
-<tr>
-<td align="center">Loops</td>
-<td align="center">Control Transfer</td>
-<td align="center">Nested Loops</td>
-</tr>
-
-<tr>
-<td align="center">ASCII</td>
-<td align="center">Collections</td>
-<td align="center">Functions</td>
-</tr>
-
-<tr>
-<td align="center">Modules</td>
-<td align="center">Exception Handling</td>
-<td align="center">✅ Completed</td>
-</tr>
-</table>
 
 <br>
 
-<h3>⚫ ADVANCED PYTHON — CURRENT JOURNEY</h3>
+---
 
-<table>
-<tr>
-<td align="center">Classes & Objects</td>
-<td align="center">Encapsulation</td>
-<td align="center">Inheritance</td>
-</tr>
+<br>
 
-<tr>
-<td align="center">Polymorphism</td>
-<td align="center">Abstraction</td>
-<td align="center">Integration</td>
-</tr>
+# 🐍 PYTHON JOURNEY
 
-<tr>
-<td align="center">TXT / CSV / SQL</td>
-<td align="center">Generators</td>
-<td align="center">Decorators</td>
-</tr>
+<div align="center">
 
-<tr>
-<td align="center">Walrus Operator</td>
-<td align="center">Naming Conventions</td>
-<td align="center">Multithreading</td>
-</tr>
+<img src="https://img.shields.io/badge/FOUNDATION-COMPLETED-FF0000?style=for-the-badge"/>
 
-<tr>
-<td align="center">Regular Expressions</td>
-<td align="center">DSA</td>
-<td align="center">Full Stack Development</td>
-</tr>
-</table>
+<br><br>
+
+<h2>🔥 Python Fundamentals</h2>
+
+<p>
+<b>Variables & Data Types</b>
+&nbsp; • &nbsp;
+<b>Operators</b>
+&nbsp; • &nbsp;
+<b>Control Statements</b>
+</p>
+
+<p>
+<b>Loops</b>
+&nbsp; • &nbsp;
+<b>Control Transfer</b>
+&nbsp; • &nbsp;
+<b>Nested Loops</b>
+</p>
+
+<p>
+<b>ASCII</b>
+&nbsp; • &nbsp;
+<b>Collections</b>
+&nbsp; • &nbsp;
+<b>Functions</b>
+</p>
+
+<p>
+<b>Modules</b>
+&nbsp; • &nbsp;
+<b>Exception Handling</b>
+</p>
+
+<br>
+
+<img src="https://img.shields.io/badge/✓%20FOUNDATION%20COMPLETED-111111?style=for-the-badge"/>
+
+<br><br><br>
+
+<img src="https://img.shields.io/badge/CURRENT-ADVANCED%20PYTHON-8B0000?style=for-the-badge"/>
+
+<br><br>
+
+<h2>⚡ Advanced Development</h2>
+
+<p>
+🔴 Classes & Objects
+&nbsp; • &nbsp;
+🔴 Encapsulation
+&nbsp; • &nbsp;
+🔴 Inheritance
+</p>
+
+<p>
+🔴 Polymorphism
+&nbsp; • &nbsp;
+🔴 Abstraction
+&nbsp; • &nbsp;
+🔴 Integration
+</p>
+
+<p>
+🔴 TXT / CSV / SQL
+&nbsp; • &nbsp;
+🔴 Generators
+&nbsp; • &nbsp;
+🔴 Decorators
+</p>
+
+<p>
+🔴 Walrus Operator
+&nbsp; • &nbsp;
+🔴 Naming Conventions
+&nbsp; • &nbsp;
+🔴 Multithreading
+</p>
+
+<p>
+🔴 Regular Expressions
+&nbsp; • &nbsp;
+🔴 DSA
+&nbsp; • &nbsp;
+🔴 Full Stack Development
+</p>
 
 </div>
 
+<br>
+
 ---
 
-# 🚀 FEATURED PROJECTS
+<br>
 
-<table>
-<tr>
+# 🚀 PROJECT SHOWCASE
 
-<td width="50%" valign="top">
+<br>
 
-<h2>🔐 Secure Image Encryption & Retrieval</h2>
+<div align="center">
 
-<h4>CNN + Streamlit + Cybersecurity</h4>
+<img src="https://img.shields.io/badge/PROJECT%2001-SECURE%20IMAGE%20ENCRYPTION-FF0000?style=for-the-badge"/>
+
+<h2>🔐 Secure Image Encryption & Retrieval Framework</h2>
+
+<h3>CNN • Streamlit • Cybersecurity</h3>
 
 <p>
-Major academic project focused on secure image processing, encryption, watermarking, retrieval and image-quality evaluation.
+A major academic project focused on secure image processing,
+encryption, watermarking, retrieval and image-quality evaluation.
 </p>
 
-<h4>✨ Highlights</h4>
+<br>
 
-<ul>
-<li>🔐 Image Encryption</li>
-<li>🧠 CNN-based Processing</li>
-<li>💧 Watermark Embedding & Extraction</li>
-<li>🔎 Secure Retrieval</li>
-<li>📊 PSNR / MSE / SSIM</li>
-<li>🧹 Noise Removal</li>
-<li>🖼️ Grayscale Processing</li>
-<li>🌐 Streamlit Application</li>
-</ul>
+<img src="https://img.shields.io/badge/IMAGE%20ENCRYPTION-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CNN%20PROCESSING-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WATERMARKING-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SECURE%20RETRIEVAL-111111?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PSNR%20%2F%20MSE%20%2F%20SSIM-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NOISE%20REMOVAL-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GRAYSCALE-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STREAMLIT-111111?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
+
+<br><br>
 
 <a href="https://github.com/Thirumalai260720/secure-image-encryption-CNN-and-Streamlit">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🔗%20EXPLORE%20PROJECT-FF0000?style=for-the-badge"/>
 </a>
 
-</td>
+</div>
 
-<td width="50%" valign="top">
+<br><br>
 
-<h2>🏦 Bank Employee Management</h2>
+<div align="center">
 
-<h4>PHP + MySQL + XAMPP</h4>
+<img src="https://img.shields.io/badge/PROJECT%2002-BANK%20EMPLOYEE%20MANAGEMENT-8B0000?style=for-the-badge"/>
+
+<h2>🏦 Bank Employee Management System</h2>
+
+<h3>PHP • MySQL • XAMPP</h3>
 
 <p>
-Database-driven application designed for managing employee information and performing CRUD operations.
+A database-driven application for managing employee information
+and performing CRUD operations.
 </p>
 
-<h4>✨ Features</h4>
+<br>
 
-<ul>
-<li>👤 Employee Management</li>
-<li>➕ Add Records</li>
-<li>✏️ Update Records</li>
-<li>🗑️ Delete Records</li>
-<li>👀 View Records</li>
-<li>🗄️ MySQL Integration</li>
-<li>🔔 Session Messages</li>
-</ul>
+<img src="https://img.shields.io/badge/ADD%20RECORDS-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UPDATE-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DELETE-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VIEW-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MYSQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+
+<br><br>
 
 <a href="https://github.com/Thirumalai260720">
-<img src="https://img.shields.io/badge/VIEW%20GITHUB-050505?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🔗%20VIEW%20GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
+</div>
 
-</tr>
+<br><br>
 
-<tr>
+<div align="center">
 
-<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/PROJECT%2003-MACHINE%20LEARNING-550000?style=for-the-badge"/>
 
-<h2>🧠 Automated Mental Health Identification</h2>
+<h2>🧠 Automated Mental Health Identification System</h2>
 
-<h4>Python + Machine Learning</h4>
+<h3>Python • Machine Learning</h3>
 
 <p>
-Academic mini project exploring automated identification and prediction of mental-health-related patterns using machine-learning concepts.
+Academic mini project exploring automated identification and
+prediction of mental-health-related patterns using machine-learning concepts.
 </p>
 
-<ul>
-<li>📊 Data Processing</li>
-<li>🤖 Machine Learning</li>
-<li>🔮 Prediction</li>
-<li>⚙️ Automated Identification</li>
-</ul>
+<br>
 
-</td>
+<img src="https://img.shields.io/badge/DATA%20PROCESSING-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PREDICTION-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AUTOMATION-111111?style=for-the-badge"/>
 
-<td width="50%" valign="top">
+</div>
+
+<br><br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROJECT%2004-PERSONAL%20PORTFOLIO-330000?style=for-the-badge"/>
 
 <h2>💻 Developer Portfolio</h2>
 
-<h4>HTML + CSS + JavaScript</h4>
+<h3>HTML • CSS • JavaScript</h3>
 
 <p>
-Personal portfolio created to showcase projects, technical skills, learning journey and developer profile.
+A personal portfolio created to showcase projects, skills,
+learning journey and developer profile.
 </p>
 
 <br>
 
 <a href="https://thiru-portfolio1.netlify.app/">
-<img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-FF0000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20VISIT%20PORTFOLIO-FF0000?style=for-the-badge"/>
 </a>
 
-</td>
+</div>
 
-</tr>
-</table>
+<br>
 
 ---
+
+<br>
 
 # 🎯 CURRENT FOCUS
 
 <div align="center">
 
-<table>
-<tr>
+<h2>🔥 What I'm Building Toward</h2>
 
-<td align="center" width="33%">
+<br>
 
-<h2>🐍</h2>
+<img src="https://img.shields.io/badge/🐍%20ADVANCED%20PYTHON-8B0000?style=for-the-badge"/>
 
-<b>ADVANCED PYTHON</b>
+<img src="https://img.shields.io/badge/🌐%20FULL%20STACK-FF0000?style=for-the-badge"/>
 
-<br><br>
-
-OOP  
-Generators  
-Decorators  
-Regular Expressions
-
-</td>
-
-<td align="center" width="33%">
-
-<h2>🌐</h2>
-
-<b>FULL STACK DEVELOPMENT</b>
+<img src="https://img.shields.io/badge/🗄️%20SQL%20%2F%20MYSQL-4479A1?style=for-the-badge"/>
 
 <br><br>
 
-HTML  
-CSS  
-JavaScript  
-Python
+<img src="https://img.shields.io/badge/⚡%20FASTAPI-111111?style=for-the-badge&logo=fastapi&logoColor=009688"/>
 
-</td>
+<img src="https://img.shields.io/badge/🧩%20DSA-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 
-<td align="center" width="33%">
-
-<h2>🗄️</h2>
-
-<b>DATABASES</b>
+<img src="https://img.shields.io/badge/🤖%20AI%20%2F%20ML-111111?style=for-the-badge"/>
 
 <br><br>
 
-SQL  
-MySQL  
-Database Management
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<h2>⚡</h2>
-
-<b>FASTAPI</b>
-
-<br><br>
-
-Application Development
-
-</td>
-
-<td align="center">
-
-<h2>🧩</h2>
-
-<b>DSA</b>
-
-<br><br>
-
-LeetCode  
-Problem Solving
-
-</td>
-
-<td align="center">
-
-<h2>🤖</h2>
-
-<b>AI / ML</b>
-
-<br><br>
-
-Exploring Concepts
-
-</td>
-
-</tr>
-</table>
+<p>
+<b>Learning → Building → Practicing → Improving</b>
+</p>
 
 </div>
 
+<br>
+
 ---
+
+<br>
 
 # 🧩 PROBLEM SOLVING
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=111111"/>
+
+<h2>Strengthening DSA One Problem at a Time</h2>
+
+<p>
+Currently practicing problem solving through LeetCode
+and focusing on understanding the logic behind each solution.
+</p>
+
+<br>
+
 <a href="https://leetcode.com/Thirumalaivasan__S/">
-
-<img src="https://img.shields.io/badge/LeetCode-Thirumalaivasan__S-050505?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-
+<img src="https://img.shields.io/badge/VIEW%20MY%20LEETCODE-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
 
 <br><br>
 
-<h3>Currently strengthening DSA and problem-solving skills through LeetCode.</h3>
+<h3>🧠 LEARN THE LOGIC</h3>
 
-<br>
+⬇️
 
-<table>
-<tr>
-<td align="center">🧠 Learn the Logic</td>
-<td align="center">💻 Solve</td>
-<td align="center">🔍 Understand</td>
-<td align="center">📈 Improve</td>
-</tr>
-</table>
+<h3>💻 SOLVE</h3>
+
+⬇️
+
+<h3>🔍 UNDERSTAND</h3>
+
+⬇️
+
+<h3>📈 IMPROVE</h3>
 
 </div>
 
+<br>
+
 ---
+
+<br>
 
 # 📚 CURRENTLY LEARNING
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Advanced%20Python-050505?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<h2>🚧 My Learning Lab</h2>
 
-<img src="https://img.shields.io/badge/OOP-050505?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<br>
 
-<img src="https://img.shields.io/badge/SQL%20%26%20MySQL-050505?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/ADVANCED%20PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/DSA-050505?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+<img src="https://img.shields.io/badge/OOP-8B0000?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/FastAPI-050505?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/SQL%20%26%20MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Full%20Stack-050505?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=111111"/>
+
+<img src="https://img.shields.io/badge/FULL%20STACK-FF0000?style=for-the-badge&logo=html5&logoColor=white"/>
 
 </div>
 
----
-
-# 🎓 CERTIFICATIONS & LEARNING
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🏆 NPTEL</h3>
-
-<ul>
-<li>Problem Solving Through Programming in C</li>
-<li>Cloud Computing</li>
-</ul>
-
-<h3>☁️ Cloud & Technology</h3>
-
-<ul>
-<li>Cloud / Fog / Edge Computing</li>
-<li>IoT Platforms Overview</li>
-<li>Cloud Computing</li>
-</ul>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>💻 Infosys Springboard</h3>
-
-<ul>
-<li>Java for Beginners</li>
-<li>Basics of Python</li>
-<li>Introduction to Deep Learning</li>
-<li>Introduction to NLP</li>
-</ul>
-
-<h3>🤖 Other Learning</h3>
-
-<ul>
-<li>Introduction to Generative AI</li>
-<li>Software Testing Techniques</li>
-</ul>
-
-</td>
-
-</tr>
-</table>
+<br>
 
 ---
+
+<br>
+
+# 🏆 CERTIFICATIONS & LEARNING
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LEARNING%20NEVER%20STOPS-FF0000?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+### 🥇 NPTEL
+
+**Problem Solving Through Programming in C**
+
+**Cloud Computing**
+
+<br>
+
+### ☁️ CLOUD & TECHNOLOGY
+
+**Cloud / Fog / Edge Computing**
+
+**IoT Platforms Overview**
+
+**Cloud Computing**
+
+<br>
+
+### 💻 INFOSYS SPRINGBOARD
+
+**Java for Beginners**
+
+**Basics of Python**
+
+**Introduction to Deep Learning**
+
+**Introduction to NLP**
+
+<br>
+
+### 🤖 OTHER LEARNING
+
+**Introduction to Generative AI**
+
+**Software Testing Techniques**
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CONTINUOUS%20LEARNING-111111?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+---
+
+<br>
 
 # 🎓 EDUCATION
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:550000,100:FF0000&height=120&section=header&text=B.E.%20COMPUTER%20SCIENCE%20%26%20ENGINEERING&fontSize=27&fontColor=ffffff&animation=fadeIn"/>
 
-<h2>🎓 B.E. Computer Science and Engineering</h2>
+<h2>Erode Sengunthar Engineering College</h2>
 
-<h3>Erode Sengunthar Engineering College</h3>
+<h3>2022 – 2026</h3>
 
-<p><b>2022 – 2026</b></p>
+<br>
 
-<p>
-<img src="https://img.shields.io/badge/CSE-Graduate-8B0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CGPA-8.37-050505?style=for-the-badge"/>
-</p>
+<img src="https://img.shields.io/badge/GRADUATE-CSE-FF0000?style=for-the-badge"/>
 
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/CGPA-8.37-111111?style=for-the-badge"/>
 
 </div>
 
+<br>
+
 ---
 
-# 🌐 FIND ME ONLINE
+<br>
+
+# 🌐 CONNECT WITH ME
 
 <div align="center">
 
+<h2>Let's Build Something Useful 🚀</h2>
+
+<p>
+I'm always learning, building projects and improving my development skills.
+</p>
+
+<br>
+
 <a href="https://github.com/Thirumalai260720">
-<img src="https://img.shields.io/badge/GitHub-Thirumalai260720-050505?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-Thirumalai260720-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/thirumalai2607/">
-<img src="https://img.shields.io/badge/LinkedIn-Thirumalai%20Vasan-050505?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Thirumalai%20Vasan-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 <br><br>
 
 <a href="https://thiru-portfolio1.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Thiru%20Portfolio-050505?style=for-the-badge&logo=googlechrome&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-Thiru%20Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=FF0000"/>
 </a>
 
 <br><br>
 
 <a href="mailto:thirumalaivasan2607@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-050505?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/EMAIL-thirumalaivasan2607%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 </div>
 
+<br>
+
 ---
+
+<br>
+
+<div align="center">
 
 # 🧠 DEVELOPER MINDSET
 
-<div align="center">
+<br>
 
-<table>
-<tr>
+<h2>📚 Learn</h2>
 
-<td align="center">
-<h3>📚 LEARN</h3>
-</td>
+⬇️
 
-<td align="center">
-<h3>🛠️ BUILD</h3>
-</td>
+<h2>🛠️ Build</h2>
 
-<td align="center">
-<h3>🧩 PRACTICE</h3>
-</td>
+⬇️
 
-<td align="center">
-<h3>📈 IMPROVE</h3>
-</td>
+<h2>🧩 Practice</h2>
 
-</tr>
-</table>
+⬇️
+
+<h2>📈 Improve</h2>
 
 <br>
 
-<h2>Learn → Build → Practice → Improve</h2>
-
-<p><b>Consistency creates progress. 🚀</b></p>
+<h2>Consistency creates progress. 🚀</h2>
 
 </div>
+
+<br>
 
 ---
 
 <div align="center">
 
-<h3>✨ Thanks for visiting my profile!</h3>
+<h3>✨ Thanks for visiting my GitHub profile!</h3>
 
-<p>Let's connect, learn and build something useful.</p>
+<p>
+<b>Keep Learning • Keep Building • Keep Growing</b>
+</p>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030303,35:180000,70:8B0000,100:FF0000&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,25:160000,55:550000,80:AA0000,100:FF0000&height=170&section=footer"/>
 
 </div>
