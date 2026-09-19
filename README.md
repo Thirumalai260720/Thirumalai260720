@@ -569,7 +569,16 @@ and focusing on understanding the logic behind each solution.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LEARNING%20NEVER%20STOPS-FF0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏆%20CERTIFICATIONS%20%26%20LEARNING-FF0000?style=for-the-badge"/>
+
+<br><br>
+
+<h2>📜 Continuous Learning</h2>
+
+<p>
+Building knowledge beyond the classroom through certifications,
+technical courses and continuous learning.
+</p>
 
 </div>
 
@@ -577,45 +586,93 @@ and focusing on understanding the logic behind each solution.
 
 ### 🥇 NPTEL
 
-**Problem Solving Through Programming in C**
+<div align="center">
 
-**Cloud Computing**
+<img src="https://img.shields.io/badge/NPTEL-SILVER-111111?style=for-the-badge"/>
 
-<br>
+<br><br>
 
-### ☁️ CLOUD & TECHNOLOGY
-
-**Cloud / Fog / Edge Computing**
-
-**IoT Platforms Overview**
-
-**Cloud Computing**
+<b>Problem Solving Through Programming in C</b>
 
 <br>
+
+<b>Cloud Computing</b>
+
+</div>
+
+<br><br>
 
 ### 💻 INFOSYS SPRINGBOARD
 
-**Java for Beginners**
+<div align="center">
 
-**Basics of Python**
+<img src="https://img.shields.io/badge/INFOSYS%20SPRINGBOARD-TECHNICAL%20LEARNING-8B0000?style=for-the-badge"/>
 
-**Introduction to Deep Learning**
+<br><br>
 
-**Introduction to NLP**
+📘 <b>Java for Beginners</b>
 
 <br>
 
-### 🤖 OTHER LEARNING
+🐍 <b>Basics of Python</b>
 
-**Introduction to Generative AI**
+<br>
 
-**Software Testing Techniques**
+🧠 <b>Introduction to Deep Learning</b>
+
+<br>
+
+💬 <b>Introduction to NLP</b>
+
+</div>
+
+<br><br>
+
+### ☁️ CLOUD & EMERGING TECHNOLOGY
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CLOUD%20%26%20EMERGING%20TECHNOLOGY-4479A1?style=for-the-badge"/>
+
+<br><br>
+
+☁️ <b>Cloud / Fog / Edge Computing</b>
+
+<br>
+
+📡 <b>IoT Platforms Overview</b>
+
+<br>
+
+☁️ <b>Cloud Computing</b>
+
+</div>
+
+<br><br>
+
+### 🤖 AI • DEVELOPMENT • SOFTWARE
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%20%26%20SOFTWARE-550000?style=for-the-badge"/>
+
+<br><br>
+
+🤖 <b>Introduction to Generative AI</b>
+
+<br>
+
+🧪 <b>Software Testing Techniques</b>
+
+</div>
 
 <br>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CONTINUOUS%20LEARNING-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LEARN-FF0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/PRACTICE-8B0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/IMPROVE-111111?style=flat-square"/>
 
 </div>
 
@@ -629,25 +686,43 @@ and focusing on understanding the logic behind each solution.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:550000,100:FF0000&height=120&section=header&text=B.E.%20COMPUTER%20SCIENCE%20%26%20ENGINEERING&fontSize=27&fontColor=ffffff&animation=fadeIn"/>
+<h1>🎓</h1>
 
-<h2>Erode Sengunthar Engineering College</h2>
+<h2>B.E. Computer Science and Engineering</h2>
 
-<h3>2022 – 2026</h3>
+<h3>Erode Sengunthar Engineering College</h3>
 
 <br>
 
-<img src="https://img.shields.io/badge/GRADUATE-CSE-FF0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/2022%20%E2%80%93%202026-111111?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/CGPA-8.37-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CSE%20GRADUATE-FF0000?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CGPA%208.37-8B0000?style=for-the-badge"/>
+
+<br><br>
+
+<p>
+🎓 <b>Bachelor of Engineering</b>
+<br>
+💻 <b>Computer Science and Engineering</b>
+<br>
+🏫 <b>Erode Sengunthar Engineering College</b>
+<br>
+📅 <b>2022 – 2026</b>
+</p>
 
 </div>
 
 <br>
 
----
+<div align="center">
 
-<br>
+<img src="https://img.shields.io/badge/GRADUATED%20%7C%202026-111111?style=for-the-badge"/>
+
+</div>
 
 # 🌐 CONNECT WITH ME
 
