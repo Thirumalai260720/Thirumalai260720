@@ -5,11 +5,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,25:160000,55:550000,80:AA0000,100:FF0000&height=250&section=header&text=THIRUMALAI%20VASAN%20S&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Python%20Developer&descAlignY=61&descSize=21&descColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,25:160000,55:550000,80:AA0000,100:FF0000&height=250&section=header&text=THIRUMALAI%20VASAN%20S&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Python%20Full%20Stack%20Developer&descAlignY=61&descSize=21&descColor=ffffff"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=FF3333&center=true&vCenter=true&width=850&height=55&lines=Python+%7C+HTML+%7C+CSS+%7C+JavaScript+%7C+SQL;Building+Practical+Applications;Developing+With+Python;Advanced+Python+Completed;Always+Learning.+Always+Building." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=FF3333&center=true&vCenter=true&width=850&height=55&lines=Python+%7C+HTML+%7C+CSS+%7C+JavaScript+%7C+SQL;Building+Practical+Applications;Exploring+Full+Stack+Development;Learning+Advanced+Python;Always+Learning.+Always+Building." alt="Typing SVG"/>
 
 <br><br>
 
@@ -61,12 +61,12 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ASPIRING-PYTHON%20DEVELOPER-FF0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ASPIRING-PYTHON%20FULL%20STACK%20DEVELOPER-FF0000?style=for-the-badge"/>
 
 <br><br>
 
 <p>
-I’m a <b>CSE graduate</b> focused on becoming an <b>Aspiring Python Developer</b>.
+I’m a <b>CSE graduate</b> focused on becoming an <b>Aspiring Python Full Stack Developer</b>.
 </p>
 
 <p>
@@ -91,7 +91,7 @@ and continuous hands-on practice.
 
 ⬇️
 
-<h2>⚡ Application Development</h2>
+<h2>🌐 Web Development</h2>
 
 ⬇️
 
@@ -99,7 +99,7 @@ and continuous hands-on practice.
 
 ⬇️
 
-<h2>🤖 AI & Machine Learning</h2>
+<h2>⚡ Full Stack Applications</h2>
 
 </div>
 
@@ -137,14 +137,14 @@ OOP • Generators • Decorators • Regular Expressions • Multithreading
 
 ⬇️
 
-<img src="https://img.shields.io/badge/03-APPLICATION%20DEVELOPMENT-E34F26?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/03-WEB%20DEVELOPMENT-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
 <br>
 
-<h3>Building Practical Applications</h3>
+<h3>Building Web Applications</h3>
 
 <p>
-Python • FastAPI • Streamlit • HTML • CSS • JavaScript
+HTML • CSS • JavaScript • FastAPI • Streamlit
 </p>
 
 ⬇️
@@ -279,7 +279,7 @@ Learning logic → Solving problems → Understanding solutions → Improving
 
 <br><br><br>
 
-<img src="https://img.shields.io/badge/COMPLETED-ADVANCED%20PYTHON-8B0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CURRENT-ADVANCED%20PYTHON-8B0000?style=for-the-badge"/>
 
 <br><br>
 
@@ -322,7 +322,7 @@ Learning logic → Solving problems → Understanding solutions → Improving
 &nbsp; • &nbsp;
 🔴 DSA
 &nbsp; • &nbsp;
-🔴 Python Development
+🔴 Full Stack Development
 </p>
 
 </div>
@@ -464,7 +464,9 @@ learning journey and developer profile.
 
 <br>
 
-<img src="https://img.shields.io/badge/🐍%20PYTHON%20DEVELOPMENT-8B0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🐍%20ADVANCED%20PYTHON-8B0000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🌐%20FULL%20STACK-FF0000?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/🗄️%20SQL%20%2F%20MYSQL-4479A1?style=for-the-badge"/>
 
@@ -553,7 +555,7 @@ and focusing on understanding the logic behind each solution.
 
 <img src="https://img.shields.io/badge/DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=111111"/>
 
-<img src="https://img.shields.io/badge/PYTHON%20DEVELOPMENT-FF0000?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FULL%20STACK-FF0000?style=for-the-badge&logo=html5&logoColor=white"/>
 
 </div>
 
