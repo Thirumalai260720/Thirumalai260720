@@ -5,11 +5,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,25:160000,55:550000,80:AA0000,100:FF0000&height=250&section=header&text=THIRUMALAI%20VASAN%20S&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Python%20Full%20Stack%20Developer&descAlignY=61&descSize=21&descColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,25:160000,55:550000,80:AA0000,100:FF0000&height=250&section=header&text=THIRUMALAI%20VASAN%20S&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Full%20Stack%20Developer&descAlignY=61&descSize=21&descColor=ffffff"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=FF3333&center=true&vCenter=true&width=850&height=55&lines=Python+%7C+HTML+%7C+CSS+%7C+JavaScript+%7C+SQL;Building+Practical+Applications;Exploring+Full+Stack+Development;Learning+Advanced+Python;Always+Learning.+Always+Building." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=FF3333&center=true&vCenter=true&width=850&height=55&lines=Python+%7C+Django+%7C+HTML+%7C+CSS+%7C+JavaScript;SQL+%7C+MySQL+%7C+Bootstrap;Building+Practical+Full+Stack+Applications;Advanced+Python+%7C+OOP+%7C+NumPy;Always+Learning.+Always+Building." alt="Typing SVG"/>
 
 <br><br>
 
@@ -42,11 +42,11 @@
 <p>
 <b>🐍 Python</b>
 &nbsp; • &nbsp;
-<b>🌐 Web Development</b>
+<b>🌐 Full Stack Development</b>
 &nbsp; • &nbsp;
-<b>🗄️ SQL</b>
+<b>🗄️ SQL / MySQL</b>
 &nbsp; • &nbsp;
-<b>🤖 Machine Learning</b>
+<b>⚡ Django</b>
 </p>
 
 </div>
@@ -61,22 +61,22 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ASPIRING-PYTHON%20FULL%20STACK%20DEVELOPER-FF0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PYTHON-FULL%20STACK%20DEVELOPER-FF0000?style=for-the-badge"/>
 
 <br><br>
 
 <p>
-I’m a <b>CSE graduate</b> focused on becoming an <b>Aspiring Python Full Stack Developer</b>.
+I’m a <b>CSE graduate</b> focused on <b>Python Full Stack Development</b>.
 </p>
 
 <p>
-I enjoy turning ideas into practical applications using
-<b>Python, databases and web technologies</b>.
+I enjoy building practical web applications using
+<b>Python, Django, HTML, CSS, JavaScript, Bootstrap, SQL and MySQL</b>.
 </p>
 
 <p>
-My learning journey combines <b>development, problem solving, machine learning</b>
-and continuous hands-on practice.
+My development foundation includes <b>Core Python, Advanced Python, OOP,
+database integration, web development</b> and continuous hands-on practice.
 </p>
 
 </div>
@@ -91,15 +91,23 @@ and continuous hands-on practice.
 
 ⬇️
 
-<h2>🌐 Web Development</h2>
+<h2>⚡ Advanced Python</h2>
 
 ⬇️
 
-<h2>🗄️ Database Development</h2>
+<h2>🌐 Frontend Development</h2>
 
 ⬇️
 
-<h2>⚡ Full Stack Applications</h2>
+<h2>🗄️ SQL / MySQL</h2>
+
+⬇️
+
+<h2>⚙️ Django</h2>
+
+⬇️
+
+<h2>🚀 Full Stack Applications</h2>
 
 </div>
 
@@ -120,7 +128,11 @@ and continuous hands-on practice.
 <h3>Building a Strong Python Foundation</h3>
 
 <p>
-Variables • Data Types • Operators • Loops • Collections • Functions • Modules • Exception Handling
+Variables • Data Types • Operators • Control Statements • Loops • Collections
+</p>
+
+<p>
+Functions • Modules • File Handling • Exception Handling • String Processing
 </p>
 
 ⬇️
@@ -132,19 +144,31 @@ Variables • Data Types • Operators • Loops • Collections • Functions �
 <h3>Deepening Python Development</h3>
 
 <p>
-OOP • Generators • Decorators • Regular Expressions • Multithreading
+OOP • Classes & Objects • Encapsulation • Inheritance • Polymorphism • Abstraction
+</p>
+
+<p>
+Generators • Decorators • Multithreading • Regular Expressions • Lambda Functions
+</p>
+
+<p>
+TXT • CSV • SQL • MySQL • NumPy • Tkinter
 </p>
 
 ⬇️
 
-<img src="https://img.shields.io/badge/03-WEB%20DEVELOPMENT-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/03-FRONTEND%20DEVELOPMENT-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
 <br>
 
-<h3>Building Web Applications</h3>
+<h3>Building Web Interfaces</h3>
 
 <p>
-HTML • CSS • JavaScript • FastAPI • Streamlit
+HTML • CSS • JavaScript • Bootstrap
+</p>
+
+<p>
+Responsive Design • Flexbox • Grid • Forms • Validation • Basic JavaScript Programs
 </p>
 
 ⬇️
@@ -156,19 +180,23 @@ HTML • CSS • JavaScript • FastAPI • Streamlit
 <h3>Working With Data</h3>
 
 <p>
-SQL • MySQL • Database Management
+SQL • MySQL • DDL • DML • SELECT • Joins • Aggregate Functions
 </p>
 
 ⬇️
 
-<img src="https://img.shields.io/badge/05-PROBLEM%20SOLVING-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/05-DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 
 <br>
 
-<h3>Strengthening DSA</h3>
+<h3>Building Full Stack Web Applications</h3>
 
 <p>
-Learning logic → Solving problems → Understanding solutions → Improving
+Django Applications • Templates • Forms • Models • Admin Panel
+</p>
+
+<p>
+Database Integration • CRUD Operations • Template Inheritance
 </p>
 
 </div>
@@ -185,7 +213,7 @@ Learning logic → Solving problems → Understanding solutions → Improving
 
 <h3>🐍 Programming</h3>
 
-<img src="https://skillicons.dev/icons?i=python,java"/>
+<img src="https://skillicons.dev/icons?i=python"/>
 
 <br><br>
 
@@ -195,9 +223,15 @@ Learning logic → Solving problems → Understanding solutions → Improving
 
 <br><br>
 
-<h3>⚡ Backend & Application</h3>
+<img src="https://img.shields.io/badge/BOOTSTRAP-111111?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
 
-<img src="https://skillicons.dev/icons?i=fastapi"/>
+<br><br>
+
+<h3>⚡ Backend & Web Framework</h3>
+
+<img src="https://skillicons.dev/icons?i=django"/>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/STREAMLIT-111111?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
 
@@ -209,13 +243,13 @@ Learning logic → Solving problems → Understanding solutions → Improving
 
 <br><br>
 
-<h3>📊 Python Libraries</h3>
+<h3>📊 Python Libraries & Technologies</h3>
 
 <img src="https://img.shields.io/badge/NUMPY-111111?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>
 
-<img src="https://img.shields.io/badge/PANDAS-111111?style=for-the-badge&logo=pandas&logoColor=150458"/>
+<img src="https://img.shields.io/badge/TKINTER-111111?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/OPENCV-111111?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
+<img src="https://img.shields.io/badge/REGEX-111111?style=for-the-badge"/>
 
 <br><br>
 
@@ -264,11 +298,19 @@ Learning logic → Solving problems → Understanding solutions → Improving
 &nbsp; • &nbsp;
 <b>Collections</b>
 &nbsp; • &nbsp;
-<b>Functions</b>
+<b>List Comprehension</b>
 </p>
 
 <p>
+<b>Strings</b>
+&nbsp; • &nbsp;
+<b>Functions</b>
+&nbsp; • &nbsp;
 <b>Modules</b>
+</p>
+
+<p>
+<b>File Handling</b>
 &nbsp; • &nbsp;
 <b>Exception Handling</b>
 </p>
@@ -279,7 +321,7 @@ Learning logic → Solving problems → Understanding solutions → Improving
 
 <br><br><br>
 
-<img src="https://img.shields.io/badge/CURRENT-ADVANCED%20PYTHON-8B0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ADVANCED%20PYTHON-COMPLETED-8B0000?style=for-the-badge"/>
 
 <br><br>
 
@@ -298,7 +340,7 @@ Learning logic → Solving problems → Understanding solutions → Improving
 &nbsp; • &nbsp;
 🔴 Abstraction
 &nbsp; • &nbsp;
-🔴 Integration
+🔴 Method Overriding
 </p>
 
 <p>
@@ -312,17 +354,143 @@ Learning logic → Solving problems → Understanding solutions → Improving
 <p>
 🔴 Walrus Operator
 &nbsp; • &nbsp;
-🔴 Naming Conventions
-&nbsp; • &nbsp;
 🔴 Multithreading
+&nbsp; • &nbsp;
+🔴 Regular Expressions
 </p>
 
 <p>
-🔴 Regular Expressions
+🔴 Lambda Functions
 &nbsp; • &nbsp;
-🔴 DSA
+🔴 NumPy
 &nbsp; • &nbsp;
-🔴 Full Stack Development
+🔴 Tkinter
+</p>
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+# 🌐 FRONTEND DEVELOPMENT
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML-COMPLETED-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<br><br>
+
+<h2>📄 HTML</h2>
+
+<p>
+Basic Tags • Lists • Tables • Links • Images • Forms
+</p>
+
+<br>
+
+<img src="https://img.shields.io/badge/CSS-COMPLETED-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<br><br>
+
+<h2>🎨 CSS</h2>
+
+<p>
+Selectors • Backgrounds • Display • Box Model • Text & Fonts
+</p>
+
+<p>
+Float & Clear • Position • Transform • Animation • Z-Index
+</p>
+
+<p>
+Flexbox • Grid • Pseudo-classes • Media Queries
+</p>
+
+<br>
+
+<img src="https://img.shields.io/badge/JAVASCRIPT-COMPLETED-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111"/>
+
+<br><br>
+
+<h2>⚡ JavaScript</h2>
+
+<p>
+Introduction • JavaScript Types • Display Methods • Calculations
+</p>
+
+<p>
+Validation • Basic JavaScript Programs
+</p>
+
+<br>
+
+<img src="https://img.shields.io/badge/BOOTSTRAP-COMPLETED-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+# 🗄️ DATABASE DEVELOPMENT
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<br><br>
+
+<h2>📊 SQL & MySQL</h2>
+
+<p>
+SQL Introduction • DDL • DML • SELECT Commands
+</p>
+
+<p>
+Joins • Aggregate Functions • Database Operations
+</p>
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+# ⚙️ DJANGO DEVELOPMENT
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+
+<br><br>
+
+<h2>🚀 Django Web Development</h2>
+
+<p>
+Virtual Environments • Django Installation • Applications
+</p>
+
+<p>
+HTML Pages • User Input • Control Statements • Bootstrap
+</p>
+
+<p>
+Template Inheritance • Models • Database Integration
+</p>
+
+<p>
+Admin Panel • Forms • CRUD Operations
+</p>
+
+<p>
+Adding • Retrieving • Updating • Deleting Data
 </p>
 
 </div>
@@ -460,23 +628,23 @@ learning journey and developer profile.
 
 <div align="center">
 
-<h2>🔥 What I'm Building Toward</h2>
+<h2>🔥 Python Full Stack Development</h2>
 
 <br>
 
-<img src="https://img.shields.io/badge/🐍%20ADVANCED%20PYTHON-8B0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🐍%20PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/🌐%20FULL%20STACK-FF0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚡%20DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/🗄️%20SQL%20%2F%20MYSQL-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20FRONTEND-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/⚡%20FASTAPI-111111?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/🗄️%20SQL%20%2F%20MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/🧩%20DSA-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+<img src="https://img.shields.io/badge/🎨%20BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/🤖%20AI%20%2F%20ML-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚡%20JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111"/>
 
 <br><br>
 
@@ -543,19 +711,27 @@ and focusing on understanding the logic behind each solution.
 
 <br>
 
-<img src="https://img.shields.io/badge/ADVANCED%20PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PYTHON%20FULL%20STACK-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/OOP-8B0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/SQL%20%26%20MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML%20%26%20CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111"/>
 
-<img src="https://img.shields.io/badge/DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=111111"/>
+<img src="https://img.shields.io/badge/SQL%20%26%20MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/FULL%20STACK-FF0000?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/NUMPY-111111?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>
+
+<img src="https://img.shields.io/badge/TKINTER-111111?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REGEX-111111?style=for-the-badge"/>
 
 </div>
 
